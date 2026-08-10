@@ -1,6 +1,14 @@
+- [Info](INFO.md)
+
 - [Religions](Religions/Religions.md)
   - [Rainism](Religions/Rainism/Rainism.md)
   - [The 6 Gates](Religions/The%206%20Gates/The%206%20Gates.md)
+    - [Gate 1](Religions/The%206%20Gates/Gate%201.md)
+    - [Gate 2](Religions/The%206%20Gates/Gate%202.md)
+    - [Gate 3](Religions/The%206%20Gates/Gate%203.md)
+    - [Gate 4](Religions/The%206%20Gates/Gate%204.md)
+    - [Gate 5](Religions/The%206%20Gates/Gate%205.md)
+    - [Gate 6](Religions/The%206%20Gates/Gate%206.md)
   - [Copperism](Religions/Copperism/Copperism.md)
 
 - [Characters](Characters/Characters.md)
@@ -30,3 +38,5 @@
   - [Season 2](Seasonal%20Lore/Season%202/Season%202.md)
 
 - [The Church of the Seven Saints](The%20Church%20of%20The%20Seven%20Saints/The%20Church%20of%20The%20Seven%20Saints.md)
+
+- [Credits](CREDITS.md)
