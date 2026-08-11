@@ -1,9 +1,9 @@
 # Gate 2
 
-Gate 2 is naturally where pain goes after it leaves a mob, enity, or player instead of disapearing you simply don't feel it any more.
+Gate 2 is naturally where pain goes after it leaves a mob, entity, or player; instead of disappearing, you simply don't feel it anymore.
 
 ## Acts
-The enity inside gate 2 reduces the sense of damage for humans and many mobs.
+The entity inside Gate 2 reduces the sense of damage for humans and many mobs.
 
 ## Feels
-Gate 2 is in constant pain simillar to a reverse voodo doll. Any damage you take makes it way from you to Gate 2. Gate 2 is stuck in a constant addiction to the cycle. Of watching, pain and suffering after time this suffering can liquidate. What this liquid is used for is unknown.
+Gate 2 is in constant pain similar to a reverse voodoo doll. Any damage you take makes its way from you to Gate 2. Gate 2 is stuck in a constant addiction to the cycle of watching pain and suffering. After time, this suffering can liquefy. What this liquid is used for is unknown.

@@ -1,11 +1,11 @@
 # Hazel Ashworth
 
-## Apperence
-Hazel Ashworth is a midle-aged woman.
+## Appearance
+Hazel Ashworth is a middle-aged woman.
 
 ## Backstory
-Hazel Ashworth was always looking for a place to stay but never actually settling down, untill she comes across birch town and settles there.
+Hazel Ashworth was always looking for a place to stay but never actually settled down, until she came across Birch Town and settled there.
 
 ## Decisions
 Hazel Ashworth decides to farm and build a big house and a tavern.
-She builds the tavern to meet people and help the economy, as well as having the town form a tighter social network.
+She builds the tavern to meet people and help the economy, as well as helping the town form a tighter social network.

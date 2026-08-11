@@ -1,1 +1,1 @@
-Had a wife in past life a little taller, brunette, pale, and blue eyes
+Had a wife in a past life: a little taller, brunette, pale, with blue eyes.

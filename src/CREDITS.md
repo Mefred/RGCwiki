@@ -1,2 +1,2 @@
 # Credits
-- im fred (Yuca Inen)
+- I'm fred (Yuca Inen)
